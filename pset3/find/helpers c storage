@@ -1,0 +1,14 @@
+/**
+ * Finds midpoint of max and min values.
+ */
+
+bool findMidPoint(int mix, int max, int midpoint)
+{
+    if ((min + max) % 2 == 0)
+        midpoint = (min + max) / 2;
+    else
+        midpoint = (min + max) / 2;
+    return midpoint;
+            
+
+}
